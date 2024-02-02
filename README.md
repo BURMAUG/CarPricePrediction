@@ -16,7 +16,11 @@ not given or values are indicated by the "-" sign I filled it in with a zero as 
 Secondly, I divided my dataset into testing, validation and training batches. Using only the training batch which has 60% 
 of the data I converted them in to a pandas dataframe. Furthermore, I inspected the dataset for inconsistencies to which I found 
 long tails(as seen in the first image) that can cause the model confusion. I made the need correction to handle long tails by using the log function
-to get more detail into the dataset.
+to get more detail into the dataset(as represented in image 2). This correction enhances the data so that the element unseen in the former data representation
+could now be uncovered and explored. I made use of the linear regression algorithm to train the model on the training data, and get weights to pass as weights for
+test and validation. 
+
+Note: The train, tests, and validation were all done in isolation of each other.
 
 ## Conclusion
 
