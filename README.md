@@ -29,13 +29,13 @@ I was a able to achieve 80 percent accuracy in predicting price targets(image 3)
 produce and increase in the accuracy of the model.
 
 ## Resources
-* [Kaggle](https://www.kaggle.com/datasets/CooperUnion/cardataset)
-
-## Author
-[Burmau Garba](https://github.com/BURMAUG)
+[Kaggle](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 
 ## Image References
 image 1 ![long-tail](images/Longtail.png)
 image 2 ![log_tail](images/Log_tail.png)
 image 3 ![target](images/target.png)
+
+## Author
+[Burmau Garba](https://github.com/BURMAUG)
 
