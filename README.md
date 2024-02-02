@@ -24,6 +24,6 @@ to get more detail into the dataset.
 image 1 ![long-tail](images/Longtail.png)
 image 2 ![log_tail](images/Log_tail.png)
 ## Resources
-* Kaggle
+* [Kaggle](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 ## Author
 [Burmau Garba](https://github.com/BURMAUG)
