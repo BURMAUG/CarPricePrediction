@@ -25,3 +25,5 @@ image 1 ![long-tail](images/Longtail.png)
 image 2 ![log_tail](images/Log_tail.png)
 ## Resources
 * Kaggle
+## Author
+[Burmau Garba](https://github.com/BURMAUG)
